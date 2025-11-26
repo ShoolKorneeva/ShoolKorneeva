@@ -1,5 +1,4 @@
-Shool Korneeva
-
+* Школа имени героя советского союза*
 <!--
 **ShoolKorneeva/ShoolKorneeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
